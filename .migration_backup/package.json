@@ -21,9 +21,6 @@
     "url": "https://github.com/NativeScript/NativeScript/issues"
   },
   "homepage": "https://github.com/NativeScript/nativescript-app-templates",
-  "scripts": {
-    "lint": "eslint \"app/**/*.js\""
-  },
   "dependencies": {
     "@nativescript/core": "~7.1.0",
     "@nativescript/theme": "~2.3.0",
@@ -31,9 +28,7 @@
   },
   "devDependencies": {
     "@nativescript/android": "7.0.1",
-    "@nativescript/webpack": "~4.0.0",
-    "eslint": "~7.7.0",
-    "node-sass": "^5.0.0"
+    "@nativescript/webpack": "~4.0.0"
   },
   "private": "true",
   "readme": "NativeScript Application"
